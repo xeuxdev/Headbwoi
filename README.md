@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Headbwoi
 - 👀 I’m interested in Web development, ML and AI
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on anyone 😋
+- 💞️ I’m looking to collaborate with anyone 😋
 - 📫 How to reach me 
      twitter 
 
