@@ -1,3 +1,4 @@
+<h1> Hi, I'm Tochukwu John a MERN stack Developer. </h1>
 # 💫 About Me:
 i am a passionate developer looking to collaborate and build really cool things, these repo entails my journey as a Web Developer<br>
 
