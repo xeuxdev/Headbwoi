@@ -1,4 +1,4 @@
-<h1> Hi✋, <br> I'm <br> Tochukwu John <br> <small>a</small> MERN stack Developer😋. </h1> <br>
+<h1> Hi✋, <br> I'm <br> Tochukwu John <br> <small>a</small> MERN / T3 stack Developer😋. </h1> <br>
 
 # 💫 About Me:
   - i am a passionate developer 
