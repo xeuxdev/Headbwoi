@@ -4,7 +4,7 @@
   - i am a passionate developer 
   - lover of TypeScript, Nextjs, Reactjs
   - looking to collaborate and build really cool things
-  - these repo entails my journey as a Web Developer<br>
+  - this repo entails my journey as a Web Developer<br>
 
 
 ## 🌐 Socials:
