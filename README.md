@@ -1,9 +1,9 @@
-<h1> Hi✋, <br> I'm <br> Tochukwu John <br> <small>a</small> MERN / T3 stack Developer😋. </h1> <br>
+<h1> Hi✋, <br> I'm <br> Tochukwu John <br> A MERN / T3 stack Developer😋. </h1> <br>
 
 # 💫 About Me:
-  - i am a passionate developer 
-  - lover of TypeScript, Nextjs, Reactjs
-  - looking to collaborate and build really cool things
+  - i am a passionate developer. 
+  - lover of TypeScript, Nextjs, Reactjs, Nodejs, API's.
+  - looking to collaborate and build really cool things.
   - this repo entails my journey as a Web Developer<br>
 
 
