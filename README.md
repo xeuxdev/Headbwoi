@@ -1,11 +1,9 @@
-<h1> Hi✋, <br> I'm <br> Tochukwu John <br> A Frontend Developer😋. </h1> <br>
+<h1> Hi✋, I'm <br> Tochukwu John <br> A Frontend Developer😋. </h1> <br>
 
 # 💫 About Me:
-  - i am a passionate developer. 
-  - lover of TypeScript, Nextjs, Reactjs, Nodejs, API's.
-  - looking to collaborate and build really cool things.
-  - this repo entails my journey as a Web Developer<br>
-
+I am a self-taught Frontend Developer with a passion for building interactive user interfaces and experiences using the latest and most efficient technologies and design systems available. My goal is to deliver the best, easiest, and most functional long-term solutions that meet the client's requirements. <br/>
+I work with TypeScript, Reactjs and Nextjs as a framework. I also use BaaS solutions such as Firebase. <br/>
+I am currently looking to collaborate and build really cool things.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heisjohn16) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Headbwoi_1) 
