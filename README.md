@@ -1,7 +1,7 @@
-<h1> Hi✋, I'm <br> Tochukwu John <br> A Frontend Developer😋. </h1> <br>
+<h1> Hi✋, I'm <br> Tochukwu John <br> A Frontend Developer. </h1> <br>
 
 # 💫 About Me:
-I am a self-taught Frontend Developer with a passion for building interactive user interfaces and experiences using the latest and most efficient technologies and design systems available. My goal is to deliver the best, easiest, and most functional long-term solutions that meet the client's requirements. <br/>
+I am a Frontend Developer I build interactive user interfaces and experiences using the latest and most efficient technologies and design systems available. I deliver the best, easiest, and most functional long-term solutions that meet the company's requirements. <br/>
 I work with TypeScript, Reactjs and Nextjs as a framework. I also use BaaS solutions such as Firebase. <br/>
 I am currently looking to collaborate and build really cool things.
 
