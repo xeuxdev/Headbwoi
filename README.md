@@ -13,6 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Headbwoi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Headbwoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+Note: Top languages and Github stats are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Headbwoi&icon=0&color=1)](https://visitcount.itsvg.in)
 
